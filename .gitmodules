@@ -1,0 +1,6 @@
+[submodule "PdvApp"]
+	path = PdvApp
+	url = ./PdvApp
+[submodule "GerencialApp"]
+	path = GerencialApp
+	url = ./GerencialApp
