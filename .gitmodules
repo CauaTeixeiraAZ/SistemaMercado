@@ -1,6 +1,9 @@
 [submodule "PdvApp"]
 	path = PdvApp
-	url = ./PdvApp
+	url = git@github.com:CauaTeixeiraAZ/PdvApp.git
 [submodule "GerencialApp"]
 	path = GerencialApp
-	url = ./GerencialApp
+	url = git@github.com:CauaTeixeiraAZ/GerencialApp.git
+[submodule "mercadoCore"]
+    path = mercadoCore
+    url = git@github.com:CauaTeixeiraAZ/mercadoCore.git
